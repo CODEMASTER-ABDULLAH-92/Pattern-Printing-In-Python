@@ -246,5 +246,3 @@ Try to code these yourself:
 * Advanced Python pattern questions
 * ASCII art using loops
 * Pattern printing interview problems
-
-If you want more patterns or want this README expanded into a full **Pattern Printing Guide PDF**, just tell me!
